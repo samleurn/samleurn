@@ -17,11 +17,13 @@ Tive a oportunidade de atuar como jurado em uma banca avaliadora de projetos no 
 ### ⚙️ Languages & Technologies
 
 <p>
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original.svg" /> &nbsp
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" /> &nbsp
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original.svg" /> &nbsp
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" /> &nbsp
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-original.svg" /> &nbsp
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg" /> &nbsp
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg" /> &nbsp
+<!--   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postman/postman-original.svg" /> &nbsp -->
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg" /> &nbsp
 </p> 
 
