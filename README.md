@@ -1,4 +1,4 @@
-## 🧑‍🦰 new User = { 'Samuel Ramos' }
+## 🧑‍🦰 my Name = { 'Samuel Ramos' }
 
 ### 👨‍💻 About Me :
 
@@ -10,7 +10,7 @@ Meu nome é Samuel Ramos, tenho 20 anos. Formado no Ensino Médio pelo Instituto
 
 Tive a oportunidade de atuar como jurado em uma banca avaliadora de projetos no Programa Trilhas, representando a visão de ex-aluno e profissional da área. Atualmente, estou cursando o tecnólogo em Análise e Desenvolvimento de Sistemas pela Unifacimp Wyden.
 
-[![Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/seu-perfil) 
+[![Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/samrms/) 
 
 ---
 
