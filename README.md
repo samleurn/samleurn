@@ -32,7 +32,7 @@ Tive a oportunidade de atuar como jurado em uma banca avaliadora de projetos no 
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg" /> &nbsp
 </p>
 
----
+##
 
 ### 📈 Stats 
 
