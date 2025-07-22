@@ -14,7 +14,7 @@ Tive a oportunidade de atuar como jurado em uma banca avaliadora de projetos no 
 
 ---
 
-### 🤖 Languages
+### 💻 Technologies
 
 <p>
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" /> &nbsp
@@ -24,7 +24,7 @@ Tive a oportunidade de atuar como jurado em uma banca avaliadora de projetos no 
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg" /> &nbsp
 </p>
 
-### ⚙️ Technologies
+### ⚙️ Tools
 
 <p>
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg" /> &nbsp
