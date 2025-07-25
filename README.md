@@ -1,4 +1,4 @@
-## 🧑‍🦰 User { name: 'Samuel Ramos' }
+## User { name: 'Samuel Ramos' }
 
 ### 👨‍💻 About Me :
 
