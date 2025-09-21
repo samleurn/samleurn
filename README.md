@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me :
 
-**`Back-End Developer`**
+**`Junior Back-End Developer`**
 
 Console.log( 'Hello World!' )
 
@@ -17,19 +17,36 @@ Tive a oportunidade de atuar como jurado em uma banca avaliadora de projetos no 
 ### 💻 Technologies
 
 <p>
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" /> &nbsp
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original.svg" /> &nbsp
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" /> &nbsp
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-original.svg" /> &nbsp
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg" /> &nbsp
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-plain.svg" /> &nbsp
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-plain.svg" /> &nbsp
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-plain.svg" /> &nbsp
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-plain.svg" /> &nbsp
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-line.svg" /> &nbsp
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original.svg" /> &nbsp
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mongodb/mongodb-original.svg" /> &nbsp
+</p>
+
+### ⚛️ Frameworks
+
+<p>
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/express/express-original.svg" /> &nbsp
+</p>
+
+### 📚 Libraries
+
+<p>
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/chartjs/chartjs-plain.svg" /> &nbsp
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/passport/passport-plain.svg" /> &nbsp
 </p>
 
 ### ⚙️ Tools
 
 <p>
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg" /> &nbsp
-<!--   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postman/postman-original.svg" /> &nbsp -->
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg" /> &nbsp
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-plain.svg" /> &nbsp
+<!--   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/insomnia/insomnia-original.svg" /> &nbsp -->
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postman/postman-plain.svg" /> &nbsp
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" /> &nbsp
 </p>
 
 ##
