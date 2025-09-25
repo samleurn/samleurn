@@ -19,6 +19,7 @@ Atualmente, estou cursando o tecnólogo em Análise e Desenvolvimento de Sistema
 <p>
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-plain.svg" /> &nbsp
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-plain.svg" /> &nbsp
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-plain.svg" /> &nbsp
   <!-- <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-plain.svg" /> &nbsp
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-plain.svg" /> &nbsp -->
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-line.svg" /> &nbsp
