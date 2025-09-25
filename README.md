@@ -43,7 +43,7 @@ Atualmente, estou cursando o tecnólogo em Análise e Desenvolvimento de Sistema
 <p>
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg" /> &nbsp
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-plain.svg" /> &nbsp
-<!--   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/insomnia/insomnia-original.svg" /> &nbsp -->
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/insomnia/insomnia-original.svg" /> &nbsp
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postman/postman-plain.svg" /> &nbsp
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" /> &nbsp
 </p>
