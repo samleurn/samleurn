@@ -8,7 +8,7 @@ Console.log( 'Hello World!' )
 
 Meu nome é Samuel Ramos, tenho 20 anos. Formado no Ensino Médio pelo Instituto Federal do Maranhão (IFMA), integrado ao curso técnico em Automação Industrial. Iniciei minha trajetória como Back-End Developer por meio do Programa Trilhas Inova, uma iniciativa realizada em parceria entre o Inova Maranhão, SECTI e FAPEMA.
 
-Tive a oportunidade de atuar como jurado em uma banca avaliadora de projetos no Programa Trilhas, representando a visão de ex-aluno e profissional da área. Atualmente, estou cursando o tecnólogo em Análise e Desenvolvimento de Sistemas pela Unifacimp Wyden.
+Atualmente, estou cursando o tecnólogo em Análise e Desenvolvimento de Sistemas pela Unifacimp Wyden, com foco em expandir meu conhecimento na área de tecnologia da informação.
 
 [![Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/samrms/) 
 
@@ -19,22 +19,17 @@ Tive a oportunidade de atuar como jurado em uma banca avaliadora de projetos no 
 <p>
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-plain.svg" /> &nbsp
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-plain.svg" /> &nbsp
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-plain.svg" /> &nbsp
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-plain.svg" /> &nbsp
+  <!-- <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-plain.svg" /> &nbsp
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-plain.svg" /> &nbsp -->
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-line.svg" /> &nbsp
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original.svg" /> &nbsp
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mongodb/mongodb-original.svg" /> &nbsp
 </p>
 
-### ⚛️ Frameworks
+### ⚛️ Frameworks & 📚 Libraries
 
 <p>
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/express/express-original.svg" /> &nbsp
-</p>
-
-### 📚 Libraries
-
-<p>
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/chartjs/chartjs-plain.svg" /> &nbsp
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/passport/passport-plain.svg" /> &nbsp
 </p>
