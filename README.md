@@ -10,7 +10,11 @@ Meu nome é Samuel Ramos, tenho 20 anos. Formado no Ensino Médio pelo Instituto
 
 Atualmente, estou cursando o tecnólogo em Análise e Desenvolvimento de Sistemas pela Unifacimp Wyden, com foco em expandir meu conhecimento na área de tecnologia da informação.
 
-[![Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/samrms/) 
+<!--[![Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/samrms/) -->
+
+<p>
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linkedin/linkedin-original.svg" href="https://www.linkedin.com/in/samrms/"/>
+</p>
 
 ##
 
