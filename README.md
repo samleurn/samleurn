@@ -13,7 +13,7 @@ Atualmente, estou cursando o tecnólogo em Análise e Desenvolvimento de Sistema
 [![Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/samrms/)
 
 ##
-href="https://www.linkedin.com/in/samrms/"
+
 ### 💻 Technologies & 🎲 Databases
 
 <p>
