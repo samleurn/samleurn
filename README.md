@@ -24,7 +24,7 @@ Atualmente cursando **Tecnologia em Análise e Desenvolvimento de Sistemas**, co
 
 #### 👤 Profile:
 
-[![Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](www.linkedin.com/in/samuel-alcantara-dev)
+[![Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](www.linkedin.com/in/osamuel-alcantara)
 
 ##
 
