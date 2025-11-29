@@ -33,6 +33,7 @@ Atualmente cursando **Tecnologia em Análise e Desenvolvimento de Sistemas**, co
 ![JavaScript](https://img.shields.io/badge/javascript-%23FFFF00.svg?style=for-the-badge&logo=javascript&logoColor=%23f2f2f2)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23FFFFFF.svg?style=for-the-badge&logo=express&logoColor=%23000000)
+![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -51,7 +52,8 @@ Atualmente cursando **Tecnologia em Análise e Desenvolvimento de Sistemas**, co
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-%230078D4.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-%23000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+
 <!-- 
 fastfy
 jwt
